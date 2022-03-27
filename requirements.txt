@@ -2,3 +2,4 @@ pydicom
 matplotlib
 numpy
 pillow
+pydicom.data
